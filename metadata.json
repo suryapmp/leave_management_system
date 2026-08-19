@@ -1,0 +1,6 @@
+{
+  "name": "LeaveEase – Employee Leave Management System",
+  "description": "A modern, full-stack employee leave management system supporting leave requests, multi-tier approvals, leave balances, calendars, holiday management, department tracking, audit trails, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
